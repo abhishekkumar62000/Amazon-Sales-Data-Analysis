@@ -1,2 +1,3 @@
-# Amazon-Sales-Data-Analysis
-Amazon Sales Data Analysis:---->
+# Python_Amazon_Sales_Analysis
+
+Python project for beginners- Analyze Amazon sales data to check the buyers preferred choice in the sales
